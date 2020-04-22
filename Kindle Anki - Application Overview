@@ -1,0 +1,27 @@
+# Kindle Anki - Application Overview
+
+## Requirements
+- P0 
+    - Ability to take kindle highlights and put into csv
+- P1
+    - Convert all files in a HTML folder into a CSV folder 
+        - Move files in CSV folder into another folder to mark that it is done
+- P2
+    - Abiltiy to upload all the files in the CSV folder into Anki
+
+
+## CSV Details 
+### Columns 
+- Front 
+- Back
+- Tags
+
+## Open Questions 
+- Are there any open APIs for anki cards? 
+
+## Research 
+
+
+
+
+
