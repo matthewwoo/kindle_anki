@@ -8,8 +8,6 @@ noteTexts = soup.find_all('div',{'class':'noteText'})
 noteTexts_list = []
 for note in noteTexts:
     noteTexts_list.append(note)
-print(noteTexts_list[0])
-print(noteTexts_list[1])
 
 # Store all the highlights and notes into separate list
 highlights = []
@@ -20,17 +18,12 @@ for i in range(0, len(noteTexts)):
         highlights.append(noteTexts[i])
     else: 
         notes.append(noteTexts[i])
-print("## Highlights")
-print(highlights)
-
-print("## Notes")
-print(notes)
 
 ## Input the highlights & notes into the pandas dataframe 
+data = {'front': highlights, 'back': notes[:21]}
 
+df = pd.DataFrame(data)
 
-
-
-
+print(df)
 
 
