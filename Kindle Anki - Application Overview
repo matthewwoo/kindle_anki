@@ -8,6 +8,7 @@
         - Move files in CSV folder into another folder to mark that it is done
 - P2
     - Abiltiy to upload all the files in the CSV folder into Anki
+    - Abiltiy to scrap other resources for anki cards
 
 
 ## CSV Details 
@@ -18,6 +19,9 @@
 
 ## Open Questions 
 - Are there any open APIs for anki cards? 
+    - Yes there is, it's called AnkiConnect
+    - https://foosoft.net/projects/anki-connect/  
+    - You can do it automatically using the addNotes function
 
 ## Research 
 
