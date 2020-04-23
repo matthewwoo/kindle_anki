@@ -17,6 +17,14 @@
 - Back
 - Tags
 
+### Logic 
+1. Even row is the highlight
+2. Odd row is the note 
+3. Counter = (highlights + notes)/2
+4. For even rows store it as the back 
+5. For odd rows store it in the front 
+
+
 ## Open Questions 
 - Are there any open APIs for anki cards? 
     - Yes there is, it's called AnkiConnect
