@@ -24,6 +24,6 @@ data = {'front': highlights, 'back': notes[:21]}
 
 df = pd.DataFrame(data)
 
-print(df)
+
 
 
