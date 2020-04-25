@@ -20,3 +20,45 @@ def invoke(action, **params):
 invoke('createDeck', deck='test1')
 result = invoke('deckNames')
 print('got list of decks: {}'.format(result))
+
+# sample = [
+#             {
+#                 "deckName": "Default",
+#                 "modelName": "Basic",
+#                 "fields": {
+#                     "Front": "front content",
+#                     "Back": "back content"
+#                 },
+#                 "tags": [
+#                     "yomichan"
+#                 ],
+#                 "audio": [{
+#                     "url": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=猫&kana=ねこ",
+#                     "filename": "yomichan_ねこ_猫.mp3",
+#                     "skipHash": "7e2c2f954ef6051373ba916f000168dc",
+#                     "fields": [
+#                         "Front"
+#                     ]
+#                 }]
+#             }, 
+#             {
+#                 "deckName": "Default",
+#                 "modelName": "Basic",
+#                 "fields": {
+#                     "Front": "front content1",
+#                     "Back": "back content"
+#                 },
+#                 "tags": [
+#                     "yomichan"
+#                 ],
+#                 "audio": [{
+#                     "url": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=猫&kana=ねこ",
+#                     "filename": "yomichan_ねこ_猫.mp3",
+#                     "skipHash": "7e2c2f954ef6051373ba916f000168dc",
+#                     "fields": [
+#                         "Front"
+#                     ]
+#                 }]
+#             }
+#         ]
+# invoke('addNotes', notes=sample)

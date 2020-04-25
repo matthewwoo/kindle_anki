@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from models import Note
 import pandas as pd
 
 # Open the file and store all highlight in a list
@@ -24,6 +25,5 @@ data = {'front': highlights, 'back': notes[:21]}
 
 df = pd.DataFrame(data)
 
-
-
-
+a = Note('desk', 'front','back','test')
+print(a.deck)
