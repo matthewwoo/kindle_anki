@@ -11,8 +11,14 @@ notes = result[1]
 note_highlights = result[2]
 tags = [title,"Investing","Index Funds", "John C. Bogle"]
 print(tags)
-# for i in len(result[1]):
-#     card = a.cardify(result[0][i])
+print(notes[1])
+print(len(notes))
+for i in range(0,len(notes)):
+    card = a.cardify(notes[i],note_highlights[i],tags)
+    card = card.anki_jsonify()
+    ac.invoke('addNote',note=card)
+print("done")
+
     
 
 

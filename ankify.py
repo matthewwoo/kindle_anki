@@ -9,15 +9,17 @@ def book_md_ankify(md_list):
     notes = []
     for i in range(0, len(md_list)): 
         if md_list[i][0] == "*": 
+            md_list[i] = md_list[i].lstrip("**Note:**")
             notes.append(md_list[i])
             note_highlights.append(md_list[i-2])
         elif md_list[i][0] == "#": 
+            md_list[i] = md_list[i].lstrip("#")
             title = md_list[i]
         elif md_list[i][0] == "": 
             continue 
         else:
             highlights.append(md_list[i])
-    return title, note_highlights, notes
+    return title, notes, note_highlights
 
 def html_ankify(html_list):
     note_highlights = []

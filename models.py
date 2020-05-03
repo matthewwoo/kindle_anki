@@ -19,9 +19,7 @@ class Card(object):
                     "allowDuplicate":False,
                     "duplicateScope":self.deck
                 },
-                "tags": [
-                    self.tags
-                ]
+                "tags": self.tags
             }
 # Include the dump and loads, but not working
     def anki_jsonify_2(self): 
