@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from models import Note
 import pandas as pd
 
 # Open the HTML and store all highlight in a list
