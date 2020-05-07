@@ -17,7 +17,7 @@ class Card(object):
                 },
                 "options":{
                     "allowDuplicate":False,
-                    "duplicateScope":self.deck
+                    "duplicateScope":"deck"
                 },
                 "tags": self.tags
             }

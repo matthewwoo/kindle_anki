@@ -17,12 +17,9 @@ def invoke(action, **params):
         raise Exception(response['error'])
     return response['result']
 
-invoke('createDeck', deck='test1')
-result = invoke('deckNames')
-print('got list of decks: {}'.format(result))
-
-
-
+# invoke('addNote', deck='test1')
+# result = invoke('deckNames')
+# print('got list of decks: {}'.format(result))
 # sample = [
 #             {
 #                 "deckName": "Default",
