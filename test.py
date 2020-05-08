@@ -16,12 +16,20 @@ print(len(notes))
 for i in range(0,len(notes)-14):
     card = a.cardify(notes[i],note_highlights[i],tags)
     card = card.anki_jsonify()
-    ac.invoke('addNote',note=card)
-print("done")
-
     
+    print("## Card 1 JSON")
+    print(card)
+    result = ac.invoke('addNote',note=card)
+    print("## Card 1 Response")
+    print(result)
 
-
+    print("## Card 2 JSON")
+    print(card)
+    result = ac.invoke('addNote',note=card)
+    print("## Card 2 Response")
+    print(result)
+ 
+print("done")
 
 
 # test_card = a.cardify(result[1],result[2],"test")
