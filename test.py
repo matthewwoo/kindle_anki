@@ -6,29 +6,18 @@ import json
 book = "/Users/matthewwoo/Desktop/Kindle_Anki/The Little Book of Common Sense Investing by John C. Bogle.md"
 md_list = s.md_notes(book)
 result = a.book_md_ankify(md_list)
-title = result[0]
+title = result[0].replace(" ","-")
+print(title)
 notes = result[1]
 note_highlights = result[2]
-tags = [title,"Investing","Index Funds", "John C. Bogle"]
+tags = [title,"Investing","Index Funds", "John-C.-Bogle"]
 print(tags)
 print(notes[1])
 print(len(notes))
-for i in range(0,len(notes)-14):
+for i in range(0,len(notes)):
     card = a.cardify(notes[i],note_highlights[i],tags)
     card = card.anki_jsonify()
-    
-    print("## Card 1 JSON")
-    print(card)
     result = ac.invoke('addNote',note=card)
-    print("## Card 1 Response")
-    print(result)
-
-    print("## Card 2 JSON")
-    print(card)
-    result = ac.invoke('addNote',note=card)
-    print("## Card 2 Response")
-    print(result)
- 
 print("done")
 
 

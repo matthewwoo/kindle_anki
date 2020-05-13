@@ -1,0 +1,521 @@
+Thinking in Systems: A Primer
+Donella H. Meadows and Diana Wright
+
+The answer clearly lies within the Slinky itself. The hands that manipulate it suppress or release some behavior that is latent within the structure of the spring. That is a central insight of systems theory.
+NOTE: What is the central insight for sytems theory?
+LOCATION: 170
+
+hone our abilities to understand parts, see interconnections, ask “what-if” questions about possible future behaviors, and be creative and courageous about system redesign.
+NOTE: What is the goal of systems thinking?
+LOCATION: 267
+
+This ancient Sufi story was told to teach a simple lesson but one that we often ignore: The behavior of a system cannot be known just by knowing the elements of which the system is made.
+NOTE: What is the Stufi story and what does it tell us about systems?
+LOCATION: 282
+
+system must consist of three kinds of things: elements, interconnections, and a function or purpose.
+NOTE: What are the three things a system is comprised of?
+LOCATION: 296
+
+A system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
+NOTE: Is a system a sum of its parts?
+LOCATION: 313
+
+Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate.
+NOTE: How does interconnections generally manifest?
+LOCATION: 352
+
+Purposes are deduced from behavior, not from rhetoric or stated goals.
+NOTE: How dobyiu determine the behavior of a system?
+LOCATION: 367
+
+One function of a plant is to bear seeds and create more plants. One purpose of a national economy is, judging from its behavior, to keep growing larger. An important function of almost every system is to ensure its own perpetuation.
+NOTE: What is one of the most important functions of any system?
+LOCATION: 373
+
+To ask whether elements, interconnections, or purposes are most important in a system is to ask an unsystemic question. All are essential. All interact. All have their roles. But the least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior. Interconnections are also critically important. Changing relationships usually changes system behavior.
+NOTE: How do you change a system and what is often the change required?
+LOCATION: 411
+
+A system stock is just what it sounds like: a store, a quantity, an accumulation of material or information that has built up over time.
+NOTE: What is the foundation of a system?
+LOCATION: 427
+
+A stock is the memory of the history of changing flows within the system.
+NOTE: What conceptually does the stock represent?
+LOCATION: 431
+
+Stocks change over time through the actions of a flow.
+NOTE: How do stocks change?
+LOCATION: 432
+
+dynamics of stocks and flows—their behavior over time—you understand a good deal about the behavior of complex systems.
+NOTE: What can you unersatnd about a system through its stocks and flows?
+LOCATION: 454
+
+Systems thinkers use graphs of system behavior to understand trends over time, rather than focusing attention on individual events. We also use behavior-over-time graphs to learn whether the system is approaching a goal or a limit, and if so, how quickly. The variable on the graph may be a stock or a flow.
+NOTE: How do systems thinker think visually about behaviors?
+LOCATION: 465
+
+The human mind seems to focus more easily on stocks than on flows. On top of that, when we do focus on flows, we tend to focus on inflows more easily than on outflows.
+NOTE: What bias do humans generally have?
+LOCATION: 489
+
+A stock takes time to change, because flows take time to flow. That’s a vital point, a key to understanding why systems behave as they do. Stocks usually change slowly. They can act as delays, lags, buffers, ballast, and sources of momentum in a system.
+NOTE: What do we need to keep in mind about how impact of flows on stocks?
+LOCATION: 503
+
+Stocks allow inflows and outflows to be decoupled and to be independent and temporarily out of balance with each other. It would be hard to run an oil company if gasoline had to be produced at the refinery at exactly the rate the cars were burning it. It isn’t feasible to harvest a forest at the precise rate at which the trees are growing.
+NOTE: Why is it important for stocks to make inflow amd outflows independent of each other?
+LOCATION: 526
+
+Everything we do as individuals, as an industry, or as a society is done in the context of an information-feedback system. —Jay W. Forrester
+NOTE: What id Jay W Forrester say about system thinkers?
+LOCATION: 548
+
+In other words, if you see a behavior that persists over time, there is likely a mechanism creating that consistent behavior. That mechanism operates through a feedback loop. It is the consistent behavior pattern over a long period of time that is the first hint of the existence of a feedback loop. A feedback loop is formed when changes in a stock affect the flows into or out of that same stock.
+NOTE: What is the first hint of a feedback loop and what is the general principle?
+LOCATION: 552
+
+This kind of stabilizing, goal-seeking, regulating loop is called a balancing feedback loop, so I put a B inside the loop in the diagram. Balancing feedback loops are goal-seeking or stability-seeking.
+NOTE: What type of loops are goal seeking?
+LOCATION: 602
+
+Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change.
+NOTE: Aside from goal seeking, what other behavior does this type of feedback loop have?
+LOCATION: 626
+
+It is called a reinforcing feedback loop, and will be noted with an R in the diagrams. It generates more input to a stock the more that is already there (and less input the less that is already there). A reinforcing feedback loop enhances whatever direction of change is imposed on it.
+NOTE: What type of loop leads to virtuous or vous cycles?
+LOCATION: 642
+
+approximately 70 divided by the growth rate (expressed as a percentage). Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). If you get only 5% interest,
+NOTE: What is the rule of 70 to esitimate doublin time?
+LOCATION: 684
+
+goal of all theory is to make the … basic elements as simple and as few as possible without having to surrender the adequate representation of … experience. —Albert Einstein,1
+NOTE: What did Einstein say about the goal of theory?
+LOCATION: 708
+
+NOTE: What type of system describes a thermostat?
+LOCATION: 726
+
+The information delivered by a feedback loop—even nonphysical feedback—can only affect future behavior; it can’t deliver a signal fast enough to correct behavior that drove the current feedback. Even nonphysical information takes time to feedback into the system.
+NOTE: What can information about a stock impact?
+LOCATION: 774
+
+stock-maintaining balancing feedback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect that stock. Otherwise, the feedback process will fall short of or exceed the target for the stock.
+NOTE: How should hyou adapt uour goal to for a single balancing feedback loop?
+LOCATION: 789
+
+A Stock with One Reinforcing Loop and One Balancing Loop—Population and Industrial Economy What happens when a reinforcing and a balancing loop are both pulling on the same stock? This is one of the most common and important system structures. Among other things, it describes every living population and every economy.
+NOTE: What type of system describe the popuation and  economy?
+LOCATION: 817
+
+Complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate behavior.
+LOCATION: 856
+
+Are the driving factors likely to unfold this way? (What are birth rate and death rate likely to do?) If they did, would the system react this way? (Do birth and death rates really cause the population stock to behave as we think it will?) What is driving the driving factors? (What affects birth rate? What
+NOTE: What are three basic questions to test whether yourbmodel is a good repreentation of reality?
+LOCATION: 867
+
+System dynamics models explore possible futures and ask “what if” questions.
+NOTE: What types of questions do dynamic systems answer?
+LOCATION: 889
+
+Model utility depends not on whether its driving scenarios are realistic (since no one can know that for sure), but on whether it responds with a realistic pattern of behavior. Of
+NOTE: What is the true measure of value of a model?
+LOCATION: 901
+
+A delay in a balancing feedback loop makes a system likely to oscillate.
+NOTE: What causes oscillations in a system?
+LOCATION: 1005
+
+Economies are extremely complex systems; they are full of balancing feedback loops with delays, and they are inherently oscillatory.
+NOTE: Why are economies constantly oscillating?
+LOCATION: 1058
+
+Two-Stock Systems A Renewable Stock Constrained by a Nonrenewable Stock—an Oil Economy
+NOTE: What type of system can describe the oil economy?
+LOCATION: 1061
+
+In physical, exponentially growing systems, there must be
+LOCATION: 1080
+
+at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment.
+NOTE: Why are all physical systems growth constrained?
+LOCATION: 1081
+
+A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time. The higher and faster you grow, the farther and faster you fall, when you’re building up a capital stock dependent on a nonrenewable resource.
+NOTE: What aspect of exponential growth should you be wary of?
+LOCATION: 1130
+
+Renewable Stock Constrained by a Renewable Stock—a Fishing Economy
+NOTE: What is type of system describes  fish economy ?
+LOCATION: 1169
+
+Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital). But since the stock is not renewed, the faster the extraction rate, the shorter the lifetime of the resource.
+NOTE: What are nonrenewable resources limited by?
+LOCATION: 1219
+
+Renewable resources are flow-limited. They can support extraction or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate. If they are extracted faster than they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable.
+NOTE: What are renewable resources limited by?
+LOCATION: 1228
+
+If the land mechanism as a whole is good, then every part is good, whether we understand it or not. If the biota, in the course of aeons, has built something we like but do not understand, then who but a fool would discard seemingly useless parts? To keep every cog and wheel is the first precaution of intelligent tinkering. —Aldo Leopold,1 forester
+NOTE: What did Alo Lepold say about intelligent tinkering?
+LOCATION: 1256
+
+Consider the properties of highly functional systems—machines or human communities or ecosystems—which are familiar to you. Chances are good that you may have observed one of three characteristics: resilience, self-organization, or hierarchy.
+NOTE: What are the propertiess of highy functional systems?
+LOCATION: 1267
+
+quickly.” Resilience is a measure of a system’s ability to survive and persist within a variable environment. The opposite of resilience is brittleness or rigidity.
+NOTE: What is resiliency? An how does it difer from Talebs definition?
+LOCATION: 1276
+
+A set of feedback loops that can restore or rebuild feedback loops is resilience at a still higher level—meta-resilience, if you will.
+NOTE: What are the properties of a resilient system?
+LOCATION: 1280
+
+Even higher meta-meta-resilience comes from feedback loops that can learn, create, design, and evolve ever more complex restorative structures. Systems that can do this are self-organizing, which will be the next surprising system characteristic I come to.
+NOTE: What can self borganizing systems do differently tham rssilient systems?
+LOCATION: 1281
+
+There are always limits to resilience.
+NOTE: +[[principle]]
+LOCATION: 1289
+
+Because resilience may not be obvious without a whole-system view, people often sacrifice resilience for stability, or for productivity, or for some other more immediately recognizable system property.
+NOTE: Whatis bthe hidden cost of stability amd productivity?
+LOCATION: 1299
+
+Loss of resilience can come as a surprise, because the system usually is paying much more attention to its play than to its playing space.
+LOCATION: 1320
+
+Systems need to be managed not only for productivity or stability, they also need to be managed for resilience—the ability to recover from perturbation, the ability to restore or repair themselves.
+NOTE: Aside from stability what should a system also manage?
+LOCATION: 1322
+
+This capacity of a system to make its own structure more complex is called self-organization.
+NOTE: What is the output of a self organizing system?
+LOCATION: 1339
+
+Like resilience, self-organization is often sacrificed for purposes of short-term productivity and stability. Productivity and stability are the usual excuses for turning creative human beings into mechanical adjuncts to production processes. Or for narrowing the genetic variability of crop plants. Or for establishing bureaucracies and theories of knowledge that treat people as if they were only numbers.
+NOTE: What is similar trade-off is made for self-organizing systems?
+LOCATION: 1345
+
+New discoveries, however, suggest that just a few simple organizing principles can lead to wildly diverse self-organizing structures. Imagine a triangle with three equal sides. Add to the middle of each side another equilateral triangle, one-third the size of the first one. Add to each of the new sides another triangle, one-third smaller. And so on. The result is called a Koch snowflake.
+NOTE: What is a beautiful example of complex systems?
+LOCATION: 1357
+
+Here are some other examples of simple organizing rules that have led to self-organizing systems of great complexity: All of life, from viruses to redwood trees, from amoebas to elephants, is based on the basic organizing rules encapsulated in the chemistry of DNA, RNA, and protein molecules. The agricultural revolution and all that followed started with the simple, shocking ideas that people could stay settled in one place, own land, select and cultivate crops. “God created the universe with the earth at its center, the land with the castle at its center, and humanity with the Church at its center”—the organizing principle for the elaborate social and physical structures of Europe in the Middle Ages. “God and morality are outmoded ideas; people should be objective and scientific, should own and multiply the means of production, and should treat people and nature as instrumental inputs to production”—the organizing principles of the Industrial Revolution. Out
+NOTE: What are examples of simple rules that lead to complex structures?
+LOCATION: 1368
+
+Systems often have the property of self-organization—the ability to structure themselves, to create new structure, to learn, diversify, and complexify. Even complex forms of self-organization may arise from relatively simple organizing rules—or may not.
+NOTE: How do self-organizing systems work?
+LOCATION: 1380
+
+So he made his watches much faster and more efficiently than did Tempus. Complex systems can evolve from simple systems only if there are stable intermediate forms. The resulting complex forms will naturally be hierarchic.
+NOTE: What state are sub system in complex systems?
+LOCATION: 1410
+
+Hierarchies are brilliant systems inventions, not only because they give a system stability and resilience, but also because they reduce the amount of information that any part of the system has to keep track of.
+NOTE: What makes bierarchies briliant systems?
+LOCATION: 1414
+
+In hierarchical systems relationships within each subsystem are denser and stronger than relationships between subsystems.
+NOTE: What makes hiearchies built from self-organizing principles efficient and resilient?
+LOCATION: 1416
+
+NOTE: When treating a problem you can often focus on the subsystem but when you want to prevent the problem form resurfacing it is important to consider the whole system
+LOCATION: 1430
+
+The original purpose of a hierarchy is always to help its originating subsystems do their jobs better.
+NOTE: +[[hierarchy]]
+LOCATION: 1439
+
+When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization.
+NOTE: What happens when subsystems goals dominate?
+LOCATION: 1445
+
+To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large-system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing.
+NOTE: +[[balance]] [[hierarchy]]
+LOCATION: 1451
+
+Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers.
+NOTE: How do hierarchal systems evolve and what purpose does bit serve:
+LOCATION: 1454
+
+The trouble … is that we are terrifyingly ignorant. The most learned of us are ignorant.… The acquisition of knowledge always involves the revelation of ignorance—almost is the revelation of ignorance. Our knowledge of the world instructs us first of all that the world is greater than our knowledge of it. —Wendell Berry,1 writer and Kentucky farmer
+NOTE: What did Wendell Berry say about the acquisition of knowledge?
+LOCATION: 1463
+
+Everything we think we know about the world is a model. Our models do have a strong congruence with the world. Our models fall far short of representing the real world fully.
+NOTE: What are the 3 truths of our use of models?
+LOCATION: 1482
+
+System structure is the source of system behavior. System behavior reveals itself as a series of events over time.
+NOTE: What gives rise to behavior in a system?
+LOCATION: 1527
+
+Systems thinking goes back and forth constantly between structure (diagrams of stocks, flows, and feedback) and behavior (time graphs). Systems thinkers strive to understand the connections between the hand releasing the Slinky (event) and the resulting oscillations (behavior) and the mechanical characteristics of the Slinky’s helical coil (structure).
+NOTE: What is the iterative nature of systems thinking?
+LOCATION: 1528
+
+NOTE: How does a slinky showcase system thinking?
+LOCATION: 1531
+
+Linear relationships are easy to think about: the more the merrier. Linear equations are solvable, which makes them suitable for textbooks. Linear systems have an important modular virtue: you can take them apart and put them together again—the pieces add up. Nonlinear systems generally cannot be solved and cannot be added together.… Nonlinearity means that the act of playing the game has a way of changing the rules.… That twisted changeability makes nonlinearity hard to calculate, but it also creates rich kinds of behavior that never occur in linear systems. —James Gleick, author of Chaos: Making a New Science
+NOTE: What did James Gliek say about linearity?
+LOCATION: 1560
+
+They are even more important because they change the relative strengths of feedback loops. They can flip a system from one mode of behavior to another.
+LOCATION: 1587
+
+Many relationships in systems are nonlinear. Their relative strengths shift in disproportionate amounts as the stocks in the system shift. Nonlinearities in feedback systems produce shifting dominance of loops and many complexities in system behavior.
+LOCATION: 1625
+
+There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries.
+LOCATION: 1647
+
+The right boundary for thinking about a problem rarely coincides with the boundary of an academic discipline, or with a political boundary.
+LOCATION: 1703
+
+It’s a great art to remember that boundaries are of our own making, and that they can and should be reconsidered for each new discussion, problem, or purpose.
+LOCATION: 1716
+
+At any given time, the input that is most important to a system is the one that is most limiting.
+LOCATION: 1751
+
+growth itself depletes or enhances limits
+LOCATION: 1766
+
+Ultimately, the choice is not to grow forever but to decide what limits to live within.
+LOCATION: 1775
+
+There always will be limits to growth. They can be self-imposed. If they aren’t, they will be system-imposed.
+LOCATION: 1780
+
+There always will be limits to growth. They can be self-imposed. If they aren’t, they will be system-imposed.
+LOCATION: 1783
+
+When there are long delays in feedback loops, some sort of foresight is essential. To act only when a problem becomes obvious is to miss an important opportunity to solve the problem. Understanding delays helps one understand why Mikhail Gorbachev could transform the information system of the Soviet Union virtually overnight, but not the physical economy. (That takes decades.) It helps one see why the absorption of East Germany by West Germany produced more hardship over a longer time than the politicians foresaw. Because of long delays in building new power plants, the electricity industry is plagued with cycles of overcapacity and then undercapacity leading to brownouts. Because of decades-long delays as the earth’s oceans respond to warmer temperatures, human fossil-fuel emissions have already induced changes in climate that will not be fully revealed for a generation or two. Bounded Rationality As every individual, therefore, endeavours as much as he can both to employ his capital in the support of domestic industry, and so to direct that industry that its produce may be of greatest value… he generally, indeed, neither intends to promote the public interest, nor knows how much he is promoting it.… He intends his own security; … he intends only his own gain and he is in this … led by an invisible hand to promote an end which was no part of his intention. By pursuing his own interest he frequently promotes that of society more effectually than when he really intends to promote it. —Adam Smith,9 18th century political economist It would be so nice if the “invisible hand” of the market really did lead individuals to make decisions that add up to the good of the whole. Then not only would material selfishness be a social virtue, but mathematical models of the economy would be much easier to make. There would be no need to think about the good of other people or about the operations of complex feedback systems. No wonder Adam Smith’s model has had such strong appeal for two hundred years! Unfortunately, the world presents us with multiple examples of people acting rationally in their short-term best interests and producing aggregate results that no one likes. Tourists flock to places like Waikiki or Zermatt and then complain that those places have been ruined by all the tourists. Farmers produce surpluses of wheat, butter, or cheese, and prices plummet. Fishermen overfish and destroy their own livelihood. Corporations collectively make investment decisions that cause business-cycle downturns. Poor people have more babies than they can support. Why? Because of what World Bank economist Herman Daly calls the “invisible foot” or what Nobel Prize–winning economist Herbert Simon calls bounded rationality.10 Bounded rationality means that people make quite reasonable decisions based on the information they have. But they don’t have perfect information, especially about more distant parts of the system. Fishermen don’t know how many fish there are, much…
+LOCATION: 1821
+
+Being less surprised by complex systems is mainly a matter of learning to expect, appreciate, and use the world’s complexity.
+LOCATION: 1936
+
+But system traps can be escaped—by recognizing them in advance and not getting caught in them, or by altering the structure—by reformulating goals, by weakening, strengthening, or altering feedback loops, by adding new feedback loops. That is why I call these archetypes not just traps, but opportunities.
+LOCATION: 1946
+
+The most effective way of dealing with policy resistance is to find a way of aligning the various goals of the subsystems, usually by providing an overarching goal that allows all actors to break out of their bounded rationality.
+LOCATION: 2006
+
+The most familiar examples of this harmonization of goals are mobilizations of economies during wartime, or recovery after war or natural disaster.
+LOCATION: 2009
+
+In any commons system there is, first of all, a resource that is commonly shared (the pasture).
+LOCATION: 2047
+
+For the system to be subject to tragedy, the resource must be not only limited, but erodable when overused.
+LOCATION: 2048
+
+A commons system also needs users of the resource (the cows and their owners), which have good reason to increase, and which increase at a rate that is not influenced by the condition of the commons.
+LOCATION: 2052
+
+The tragedy of the commons arises from missing (or too long delayed) feedback from the resource to the
+LOCATION: 2057
+
+growth of the users of that resource.
+LOCATION: 2058
+
+In these cases, the feedback influencing the rate of use of the common resource—whether it is a source or a sink—is weak.
+LOCATION: 2075
+
+Educate and exhort. Help people to see the consequences of unrestrained use of the commons. Appeal to their morality. Persuade them to be temperate. Threaten transgressors with social disapproval or eternal hellfire. Privatize the commons. Divide it up, so that each person reaps the consequences of his or her own actions. If some people lack the self-control to stay below the carrying capacity of their own private resource, those people will harm only themselves and not others. Regulate the commons. Garrett Hardin calls this option, bluntly, “mutual coercion, mutually agreed upon.” Regulation can take many forms, from outright bans on certain behaviors to quotas, permits, taxes, incentives. To be effective, regulation must be enforced by policing and penalties.
+LOCATION: 2081
+
+Therefore, there is very weak feedback from the condition of the resource to the decisions of the resource users. The consequence is overuse of the resource, eroding it until it becomes unavailable to anyone.
+LOCATION: 2121
+
+The actor tends to believe bad news more than good news. As actual performance varies, the best results are dismissed as aberrations, the worst results stay in the memory. The actor thinks things are worse than they really are.
+LOCATION: 2144
+
+The balancing feedback loop that should keep the system state at an acceptable level is overwhelmed by a reinforcing feedback loop heading downhill. The lower the perceived system state, the lower the desired state. The lower the desired state, the less discrepancy, and the less corrective action is taken. The less corrective action, the lower the system state. If this loop is allowed to run unchecked, it can lead to a continuous degradation in the system’s performance.
+LOCATION: 2149
+
+One is to keep standards absolute, regardless of performance. Another is to make goals sensitive to the best performances of the past, instead of the worst.
+LOCATION: 2159
+
+Each actor takes its desired state from the other’s perceived system
+LOCATION: 2188
+
+state—and ups
+LOCATION: 2188
+
+One way out of the escalation trap is unilateral disarmament—deliberately reducing your own system state to induce reductions in your competitor’s state.
+LOCATION: 2209
+
+It creates a new set of balancing controlling loops to keep the competition in bounds
+LOCATION: 2213
+
+When the state of one stock is determined by trying to surpass the state of another stock—and vice versa—then there is a reinforcing feedback loop carrying the system into an arms race, a wealth race,
+LOCATION: 2218
+
+successful.” This system trap is found whenever the winners of a competition receive, as part of the reward, the means to compete even more effectively in the future. That’s a reinforcing feedback loop, which rapidly divides a system into winners who go on winning, and losers who go on losing.
+LOCATION: 2233
+
+competitive exclusion principle.” This principle says that two different species cannot live in exactly the same ecological niche, competing for exactly the same resources.
+LOCATION: 2244
+
+How do you break out of the trap of success to the successful? Species and companies sometimes escape competitive exclusion by diversifying.
+LOCATION: 2274
+
+Diversification doesn’t work as a strategy for the poor.
+LOCATION: 2280
+
+The most obvious way out of the success-to-the-successful archetype is by periodically “leveling the playing field.”
+LOCATION: 2283
+
+have no hope of winning, could get frustrated enough to destroy the playing field.
+LOCATION: 2294
+
+intervenor.
+LOCATION: 2322
+
+Then the original problem reappears, since nothing has been done to solve it at its root cause. So the intervenor applies more of the “solution,” disguising the real state of the system again, and thereby failing to act on the problem. That makes it necessary to use still more “solution.”
+LOCATION: 2349
+
+The trap is formed if the intervention, whether by active destruction or simple neglect, undermines the original capacity of the system to maintain itself. If that capability atrophies, then more of the intervention is needed to achieve the desired effect. That weakens the capability of the original system still more. The intervenor picks up the slack. And so forth.
+LOCATION: 2351
+
+Addiction is finding a quick and dirty solution to the symptom of the problem, which prevents or distracts one from the harder and longer-term task of solving the real problem. Addictive policies are insidious, because they are so easy to sell, so simple to fall for.
+LOCATION: 2360
+
+The problem can be avoided up front by intervening in such a way as to strengthen the ability of the system to shoulder its own burdens.
+LOCATION: 2377
+
+Why are the natural correction mechanisms failing? How can obstacles to their success be removed? How can mechanisms for their success be made more effective?
+LOCATION: 2381
+
+Wherever there are rules, there is likely to be rule beating.
+LOCATION: 2407
+
+large distortions, unnatural behaviors that would make no sense at all in the absence of the rules.
+LOCATION: 2409
+
+The way out of the trap, the opportunity, is to understand rule beating as useful feedback, and to revise, improve, rescind, or better explain the rules.
+LOCATION: 2429
+
+Designing rules better means foreseeing as far as possible the effects of the rules on the subsystems, including any rule beating they might engage in, and structuring the rules to turn the self-organizing capabilities of the system in a positive direction.
+LOCATION: 2430
+
+You
+LOCATION: 2497
+
+But Forrester goes on to point out that although people deeply involved in a system often know intuitively where to find leverage points, more often than not they push the change in the wrong direction.
+LOCATION: 2532
+
+Some of these kinds of parameters are physically locked in and unchangeable, but many can be varied and so are popular intervention points.
+LOCATION: 2567
+
+Parameters become leverage points when they go into ranges that kick off one of the items higher on this list. Interest rates, for example, or birth rates, control the gains around reinforcing feedback loops. System goals are parameters that can make big differences.
+LOCATION: 2593
+
+In chemistry and other fields, a big, stabilizing stock is known as a buffer.
+LOCATION: 2609
+
+You can often stabilize a system by increasing the capacity of a buffer.
+LOCATION: 2614
+
+The leverage point is in proper design in the first place.
+LOCATION: 2635
+
+Even with immense effort at forecasting, almost every electricity industry in the world experiences long oscillations between overcapacity and undercapacity. A system just can’t respond to short-term changes when it has long-term delays. That’s why a massive central-planning system, such as
+LOCATION: 2643
+
+the Soviet Union or General Motors, necessarily functions poorly.
+LOCATION: 2645
+
+A delay in a feedback process is critical relative to rates of change in the stocks that the feedback loop is trying to control. Delays that
+LOCATION: 2649
+
+Delays that are too long cause damped, sustained, or exploding oscillations, depending on how much too long. Overlong delays in a system with a threshold, a danger point, a range past which irreversible damage can occur, cause overshoot and collapse.
+LOCATION: 2651
+
+The strength of a balancing loop—its ability to keep its appointed stock at or near its goal—depends on the combination of all its parameters and links—the accuracy and rapidity of monitoring, the quickness and power of response, the directness and size of corrective flows. Sometimes there are leverage points here.
+LOCATION: 2678
+
+The strength of a balancing feedback loop is important relative to the impact it is designed to correct.
+LOCATION: 2695
+
+Reinforcing feedback loops are sources of growth, explosion, erosion, and collapse in systems.
+LOCATION: 2715
+
+In all those examples, the first outcome is what will happen if the reinforcing loop runs its course, the second is what will happen if there’s an intervention to reduce its self-multiplying power.
+LOCATION: 2720
+
+It’s the same as slowing the car when you’re driving too fast, rather than calling for more responsive brakes or technical advances in steering.
+LOCATION: 2725
+
+I love that story because it’s an example of a high leverage point in the information structure of the system. It’s not a parameter adjustment, not a strengthening or weakening of an existing feedback loop. It’s a new loop, delivering feedback to a place where it wasn’t going before.
+LOCATION: 2739
+
+It’s important that the missing feedback be restored to the right place and in compelling form.
+LOCATION: 2747
+
+There is a systematic tendency on the part of human beings to avoid accountability for their own decisions. That’s why there are so many missing feedback loops—and why this kind of leverage point is so often popular with the masses, unpopular with the powers that be, and effective, if you can get the powers that be to permit it to happen (or go around them and make it happen anyway).
+LOCATION: 2755
+
+They are high leverage points. Power over the rules is real power. That’s why lobbyists congregate when Congress writes laws, and why the Supreme Court, which interprets and delineates the Constitution—the rules for writing the rules—has even more power than Congress. If you want to understand the deepest malfunctions of systems, pay attention to the rules and to who has power over them.
+LOCATION: 2770
+
+The ability to self-organize is the strongest form of system resilience. A system that can evolve can survive almost any change, by changing itself. The
+LOCATION: 2784
+
+Self-organization is basically a matter of an evolutionary raw material—a highly variable stock of information from which to select possible patterns—and a means for experimentation, for selecting and testing new patterns.
+LOCATION: 2796
+
+The intervention point here is obvious, but unpopular. Encouraging variability and experimentation and diversity means “losing control.” Let a thousand flowers bloom and anything could happen! Who wants that? Let’s play it safe and push this lever in the wrong direction by wiping out biological, cultural, social, and market diversity!
+LOCATION: 2813
+
+Systems thinking for us was more than subtle, complicated mind play. It was going to make systems work.
+LOCATION: 2913
+
+This guideline is deceptively simple. Until you make it a practice, you won’t believe how many wrong turns it helps you avoid. Starting with the behavior of the system forces you to focus on facts, not theories. It keeps you from falling too quickly into your own beliefs or misconceptions, or those of others.
+LOCATION: 2990
+
+Starting with the behavior of the system directs one’s thoughts to dynamic, not static, analysis—not only to “What’s wrong?” but also to “How did we get there?” “What other behavior modes are possible?”
+LOCATION: 3000
+
+we all have to define a problem not by the system’s actual behavior, but by the lack of our favorite solution.
+LOCATION: 3005
+
+Our assumptions can no longer slide around (mental models are very slippery), assuming one thing for purposes of one discussion and something else contradictory for purposes of the next discussion.
+LOCATION: 3013
+
+Thou shalt not distort, delay, or withhold information. You
+LOCATION: 3031
+
+In fact, we don’t talk about what we see; we see only what we can talk about.
+LOCATION: 3049
+
+language and information systems of an organization are not an objective
+LOCATION: 3051
+
+they fundamentally structure the perceptions and actions of its members.
+LOCATION: 3052
+
+My impression is that we have seen, for perhaps a hundred and fifty years, a gradual increase in language that is either meaningless or destructive of meaning. And I believe that this increasing unreliability of language parallels the increasing disintegration, over the same period, of persons and communities.…
+LOCATION: 3062
+
+policy. It’s easier, more effective, and usually much cheaper to design policies that change depending on the state of the system.
+LOCATION: 3115
+
+all. Aim to enhance total systems properties, such as growth, stability, diversity, resilience, and sustainability—whether they are easily measured or not.
+LOCATION: 3127
+
+Systems are always coupling and uncoupling the large and the small, the fast and the slow.
+LOCATION: 3217
