@@ -1,4 +1,7 @@
 import json
+class Book(object): 
+    pass
+
 class Card(object): 
 
     def __init__(self,deck,front,back,tags):

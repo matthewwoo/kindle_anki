@@ -34,30 +34,25 @@ def html_ankify(html_list):
     return note_highlights, notes
 
 def book_md_kindle_direct_ankify(md_list):
-    highlights = []
-    highlight_locations = []
-    note_highlights = []
     notes = []
-    notes_locations = []
-    for i in range(0, len(md_list)): 
-        title = md_list[0].replace(" ","-")
-        author = md_list[0].replace(" ","-")
-        if md_list[i][0:4] == "NOTE:": 
+    note_highlights = []
+    highlights = []
+    title = md_list[0].replace(" ","-").rstrip('\n')
+    author = md_list[1].replace(" ","-").rstrip('\n')
+    print("test")
+    print(md_list[4][0:5])
+    for i in range(2, len(md_list)):     
+        if md_list[i][0:5] == "NOTE:": 
             md_list[i] = md_list[i].lstrip("NOTE:")
             md_list[i] = md_list[i].strip()
             notes.append(md_list[i])
-            note_highlights.append(md_list[i-1])
-            notes_locations.append(md_list[i+1])
-        elif md_list[i][0] == "#": 
-            md_list[i] = md_list[i].lstrip("#")
-            md_list[i] = md_list[i].strip()
-            title = md_list[i]
-        elif md_list[i][0] == "": 
-            continue 
+            note_highlights.append(md_list[i-1] + '\n' + md_list[i+1])
+            # note_highlight_locations.append(md_list[i+1])
+        elif md_list[i][0:9] == "LOCATION:" and md_list[i-1][0:5] != "NOTE:":
+            highlights.append(md_list[i-1] + "\n" + md_list[i])
         else:
-            highlights.append(md_list[i])
-            highlight_locations.append(md_list[i+1])
-    return title, notes, note_highlights,notes_locations,highlight_locations,highlight_locations,author
+            continue
+    return title, author, notes, note_highlights, highlights
 
 
 # Creating a Card

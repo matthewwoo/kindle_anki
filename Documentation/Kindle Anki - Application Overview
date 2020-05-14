@@ -4,7 +4,6 @@
 - P0 
     - Ability to take kindle highlights and put into csv
     - Ability to read markdown files put into CSV 
-        - 
 - P1
     - Convert all files in a HTML folder into a CSV folder 
         - Move files in CSV folder into another folder to mark that it is done
