@@ -5,7 +5,9 @@ import json
 
 book = "/Users/matthewwoo/Desktop/Kindle_Anki/Kindle.Highlights_Thinking.in.Systems.A.Primer_1588859187986.txt"
 md_list = s.md_notes(book)
-print(md_list[0])
+for i in range(0,9):
+    print(i,md_list[i])
+
 result = a.book_md_kindle_direct_ankify(md_list)
 # 0 = title
 # 1 = author
@@ -18,11 +20,12 @@ notes = result[2]
 note_highlights = result[3]
 highlights = result[4]
 tags = [title, author]
-print(tags)
-print(notes[0])
-print(note_highlights[0])
-print(highlights[2])
-print(len(notes))
+# print(tags)
+# for item in md_list[0:10]:
+#     print(*item)
+# print(notes[0])
+# print(note_highlights[0])
+print(highlights[0])
 # for i in range(0,len(notes)):
 #     card = a.cardify(notes[i],note_highlights[i],tags)
 #     card = card.anki_jsonify()

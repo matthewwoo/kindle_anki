@@ -37,21 +37,29 @@ def book_md_kindle_direct_ankify(md_list):
     notes = []
     note_highlights = []
     highlights = []
+    md_list_highlights = md_list
+    for i in range(0,9):
+        print(i,md_list_highlights[i])
+
     title = md_list[0].replace(" ","-").rstrip('\n')
     author = md_list[1].replace(" ","-").rstrip('\n')
-    print("test")
     print(md_list[4][0:5])
     for i in range(2, len(md_list)):     
-        if md_list[i][0:5] == "NOTE:": 
+        if md_list[i][0:5] == "NOTE:":
             md_list[i] = md_list[i].lstrip("NOTE:")
             md_list[i] = md_list[i].strip()
             notes.append(md_list[i])
             note_highlights.append(md_list[i-1] + '\n' + md_list[i+1])
-            # note_highlight_locations.append(md_list[i+1])
-        elif md_list[i][0:9] == "LOCATION:" and md_list[i-1][0:5] != "NOTE:":
-            highlights.append(md_list[i-1] + "\n" + md_list[i])
         else:
             continue
+    for i in range(2,len(md_list_highlights)): 
+        if md_list_highlights[i][0:9] == "LOCATION:" and md_list_highlights[i-1][0:5] == "NOTE:":
+            continue
+        elif md_list_highlights[i] == "" :
+            continue 
+        else:
+            highlights.append(md_list_highlights[i])
+            # highlights.append(md_list_highlights[i-1] + "\n" + md_list_highlights[i])
     return title, author, notes, note_highlights, highlights
 
 
