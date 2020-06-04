@@ -1,6 +1,9 @@
 import json
 class Book(object): 
-    pass
+    def __init__(self,title, author,tags):
+        self.title = title
+        self.author = author
+        self.tags = tags 
 
 class Card(object): 
 
