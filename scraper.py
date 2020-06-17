@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import pandas as pd
+import os
+import shutil
 
 # Open the HTML and store all highlight in a list
 def html_notes(file):
@@ -18,5 +20,29 @@ def md_notes(file):
         for line in md: 
             md_Texts_list.append(line)
     return md_Texts_list
+
+## Format Kindle Layout for Notes 
+def md_format(file, directory): 
+    md_doc = open(file)
+    md_list = md_doc.readlines()
+    title = md_list[0]
+    md_lines = []
+    for i in range(0, len(md_list)): 
+        if md_list[i][0:5]=="NOTE:" or md_list[i][0:9]=="LOCATION:": 
+            md_obj = md_list[i]
+            md_obj = "\t" + md_obj
+            md_lines.append(md_obj)
+        else:
+            md_obj = md_list[i]
+            md_lines.append(md_obj)
+    f = open(title +'.txt',"w+")
+    file_title = "/" + title + ".txt"
+    for i in range(0, len(md_lines)): 
+        f.write(md_lines[i])
+    f.close()
+    shutil.move(os.getcwd()+file_title, directory+file_title)
+    
+
+    
 
 

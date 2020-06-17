@@ -65,27 +65,10 @@ def book_md_kindle_direct_ankify(md_list):
         else:
             continue
     
-    return title, author, notes, note_highlights, highlights
+    return title, author, notes, note_highlights, highlights    
 
-
-
-
-# Creating a Card
-
+## Creating a Card
 def cardify(notes,note_highlights,tags):
     deck ="default"
     return Card(deck,notes,note_highlights,tags)
     
-
-# def deckify(highlights,note_highlights,notes): 
-
-
-
-## Input the highlights & notes into the pandas dataframe 
-# data = {'front': highlights, 'back': notes[:21]}
-
-# df = pd.DataFrame(data)
-
-# a = Note('desk' , 'front', 'back', 'test')
-# print(a.deck)
-
