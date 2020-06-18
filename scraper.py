@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import shutil
+import json
 
 # Open the HTML and store all highlight in a list
 def html_notes(file):
@@ -41,6 +42,13 @@ def md_format(file, directory):
         f.write(md_lines[i])
     f.close()
     shutil.move(os.getcwd()+file_title, directory+file_title)
+
+## Get Roam Entire JSON library 
+def roam(file): 
+    roam_doc = open(file)
+    roam_json = json.load(roam_doc)
+    print(roam_json)
+
     
 
     

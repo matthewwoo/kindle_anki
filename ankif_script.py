@@ -55,6 +55,8 @@ def create_notes_and_anki_cards(to_upload_directory, note_directory, uploaded_di
 # create_notes(to_upload_directory, note_directory, uploaded_directory)
 # create_notes_and_anki_cards(to_upload_directory,note_directory,uploaded_directory)
 
+s.roam('/Users/matthewwoo/Desktop/Kindle_Anki/matthewedanwoo.json')
+
     
 
 
