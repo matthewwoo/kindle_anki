@@ -55,9 +55,21 @@ def create_notes_and_anki_cards(to_upload_directory, note_directory, uploaded_di
 # create_notes(to_upload_directory, note_directory, uploaded_directory)
 # create_notes_and_anki_cards(to_upload_directory,note_directory,uploaded_directory)
 
-s.roam('/Users/matthewwoo/Desktop/Kindle_Anki/matthewedanwoo.json')
+file = '/Users/matthewwoo/Desktop/Kindle_Anki/matthewedanwoo.json'
 
-    
+roam_doc = open(file)
+roam_json = json.load(roam_doc)
+print(type(roam_json))
+print(roam_json[0]['title'])
+list_values = [ key for key,val in roam_json.items() if val==value ]
+# def myprint(d):
+#     for k, v in d.items():
+#         if isinstance(v, dict):
+#             myprint(v)
+#         else:
+#             print("{0} : {1}".format(k, v)) 
+
+# myprint(roam_json)
 
 
 

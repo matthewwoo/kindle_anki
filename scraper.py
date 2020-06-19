@@ -44,10 +44,18 @@ def md_format(file, directory):
     shutil.move(os.getcwd()+file_title, directory+file_title)
 
 ## Get Roam Entire JSON library 
-def roam(file): 
-    roam_doc = open(file)
-    roam_json = json.load(roam_doc)
-    print(roam_json)
+# def roam(file): 
+#     roam_doc = open(file)
+#     roam_json = json.load(roam_doc)
+#     print(roam_json['title'])
+#     def get_all_values(roam_json)
+#         for key, value in roam_json.items():
+#             if type(value) is dict:
+#                 get_all_values(value)
+#             else:
+#                 print(key, ":", value)
+    
+    
 
     
 
